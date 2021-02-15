@@ -6,7 +6,7 @@ workflows:
         name: iOS App
         environment:
             vars:
-                XCODE_WORKSPACE: "/cosmicskeptic"
+                XCODE_WORKSPACE: "{{ ADD WORKSPACE NAME HERE }}"
                 XCODE_SCHEME: "{{ ADD SCHEME NAME HERE }}"
             xcode: latest
             cocoapods: default
