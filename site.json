@@ -1,0 +1,61 @@
+{
+    "data":[
+        // {
+        // "name": "Are you hungry, red envelopes before meals, farewell to members",
+        //     "logo":"https://gitee.com/crosserr/public/raw/hotfix/images/%E9%A5%BF%E4%BA%86%E4%B9%88%E4%B8%93%E4%BA%AB%E6%B4%BB%E5%8A%A8.png",
+        //     "url":"https://gitee.com/crosserr/public/raw/hotfix/images/%E9%A5%BF%E4%BA%86%E4%B9%88%E4%B8%93%E4%BA%AB%E6%B4%BB%E5%8A%A8.png",
+        // "des": "A new user places an order for the first time, and an immediate discount of 20 yuan"
+        // },{
+        // "name":"123 free novels",
+        //     "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/123FreeNovels.png",
+        //     "url":"https://antcloud.b-cdn.net/#/7/main",
+        // "des": "Integrate various websites of all sizes on the entire network, completely free, and completely realize the freedom of novels"
+        // },{
+        // "name":"Alibaba Cloud ECS server from 86 yuan/year",
+        //     "logo":"https://img.alicdn.com/imgextra/i3/O1CN01LhBjsA1o2X8GtMZaw_!!6000000005167-2-tps-174-156.png",
+        //     "url":"https://www.aliyun.com/minisite/goods?userCode=xj98bywk",
+        // "des": "Shangyun purchasing season, hot items are as low as 1% off"
+        // },
+        {
+            "name":"Google",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Google.png",
+            "url":"https://www.google.com",
+            "des":""
+        },{
+            "name":"v2cross",
+            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "url":"https://v2cross.com",
+            "des":""
+        },{
+            "name":"YouTube",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/YouTube.png",
+            "url":"https://youtu.be/IQ5hftPUmYw",
+            "des":""
+        },{
+            "name":"Facebook",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Facebook.png",
+            "url":"https://www.facebook.com",
+            "des":""
+        },{
+            "name":"Twitter",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Twitter.png",
+            "url":"https://www.twitter.com",
+            "des":""
+        },{
+            "name":"Netflix",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Netflix.png",
+            "url":"https://www.netflix.com",
+            "des":""
+        },{
+            "name":"Telegram",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Telegram.png",
+            "url":"https://t.me/join_trojan",
+            "des":""
+        },{
+            "name":"Tumblr",
+            "logo":"https://gitee.com/crosserr/public/raw/hotfix/logo/Tumblr.png",
+            "url":"https://www.tumblr.com",
+            "des":""
+        }
+    ]
+}
